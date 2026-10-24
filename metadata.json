@@ -1,0 +1,8 @@
+{
+  "name": "Cluster Intelligence",
+  "description": "Aplicación profesional de análisis de clústeres, validación estadística y segmentación estratégica de mercados con evaluación del ROI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
